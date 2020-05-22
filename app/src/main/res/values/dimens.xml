@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="smallBtn">60dp</dimen>
+    <dimen name="btnOffset">8dp</dimen>
+    <dimen name="hugeBtn">128dp</dimen>
+    <dimen name="borderOffset">15dp</dimen>
+</resources>
